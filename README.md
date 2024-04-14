@@ -1,4 +1,8 @@
-### Hi there 👋
+<h2>Hola a todos! Soy Mariana! 👩‍💻</h2>
+<p>Soy una programadora en crecimiento, especializándome en el desarrollo frontend especializandome en React JS. Colaboro en proyectos freelance hasta encontrar una oportunidad profesional que me permita crecer y desarrollarme como profesional. Me dedico a establecer un diseño dinámico en estrecha colaboración con el cliente. Mi principal compromiso radica en garantizar excepcionales experiencias de usuario en React JS, asegurando una integración perfecta entre diseño y desarrollo.</p>
+
+## Portfolio
+Este portfolio está desplegado en [Netlify](https://portfolio-brenda-sutara.netlify.app/).
 
 <!--
 **misaac1001/misaac1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
